@@ -53,4 +53,4 @@ Este proyecto está bajo la licencia MIT - consulta el archivo LICENSE para más
 
 ## 📩 Contacto
 
-Si tienes preguntas o sugerencias, no dudes en contactarme a través [LinkedIn](http://www.linkedin.com/in/eugarciadata) o eugeniogarciacm@gmail.com.
+Si tienes preguntas o sugerencias, no dudes en contactarme a través de [LinkedIn](http://www.linkedin.com/in/eugarciadata) o eugeniogarciacm@gmail.com.
